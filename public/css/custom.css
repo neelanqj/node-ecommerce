@@ -1,0 +1,80 @@
+body {
+  padding-top: 100px;
+}
+
+#navbar-gap {
+  margin-top: -50px;
+}
+
+.product-image {
+  width:100%;
+}
+
+body {
+  background-image: url("/img/background.jpg");
+  background-repeat: repeat;
+}
+
+.tile-art {
+  background-image: url("/img/tile.jpg");
+  height:300px;
+  padding:30px;
+}
+
+.tile-art1 {
+  background-image: url("/img/tile1.jpg");
+  height:300px;
+  padding:30px;
+  background-size: 100% 100%;
+}
+
+.tile-art2 {
+  background-image: url("/img/tile2.jpg");
+  height:300px;
+  padding:30px;
+  background-size: 100% 100%;
+}
+
+.tile-art3 {
+  background-image: url("/img/tile3.jpg");
+  height:300px;
+  padding:30px;
+  background-size: 100% 100%;
+}
+
+.plh {
+  background-image: url("/img/brickwindow.png");
+  color: black;
+}
+
+.navbar {
+  background-color: brown;
+}
+
+.thumbnail {
+  height: 500px;
+}
+
+button.refund, button.paymentr{
+  visibility: hidden;
+}
+
+td {
+  background-color: grey;
+  color: white;
+}
+
+td.refund {
+  color: yellow;
+  font-weight: bold;
+}
+
+th {
+  background-color: brown;
+  color: white;
+}
+
+footer {
+  padding: 30px;
+  text-align: center;
+}
